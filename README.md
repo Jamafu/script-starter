@@ -1,6 +1,6 @@
 # Script starter
 
-A lightweight scaffolding tool to instantly generate new Node.js scripts with all necessary boilerplate and dependencies.
+A lightweight scaffolding tool to instantly generate new Node.js script - batteries-included.
 
 ## Prerequisites
 Ensure you have the following available in your terminal:
