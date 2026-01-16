@@ -23,7 +23,7 @@
     "strictPropertyInitialization": true,
     "target": "esnext",
     "useUnknownInCatchVariables": true,
-    "types": ["vitest/globals"]
+    "types": ["vitest/globals", "node"]
   },
   "include": ["src", "node_modules/vitest/globals.d.ts"],
   "exclude": ["coverage", "_dist", "**/*.spec.ts"]
