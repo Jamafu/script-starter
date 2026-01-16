@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitOverride": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "lib": ["esnext"],
+    "module": "nodeNext",
+    "moduleDetection": "force",
+    "moduleResolution": "NodeNext",
+    "noImplicitAny": true,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "outDir": "_dist",
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "strict": true,
+    "strictPropertyInitialization": true,
+    "target": "esnext",
+    "useUnknownInCatchVariables": true,
+    "types": ["vitest/globals"]
+  },
+  "include": ["src", "node_modules/vitest/globals.d.ts"],
+  "exclude": ["coverage", "_dist", "**/*.spec.ts"]
+}
