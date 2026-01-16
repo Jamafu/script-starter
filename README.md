@@ -15,7 +15,7 @@ Ensure you have the following available in your terminal:
 ## Usage
 Follow these steps to generate a new project:
 1. Execute the Generator: `./generate-node-script.sh`
-2. Configure: Enter your project name when prompted by the CLI.
+2. Enter your project name when prompted by the CLI.
 
 What happens next:
 - A new folder with the specified project name will be created in the configured destination
